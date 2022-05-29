@@ -1,1 +1,1 @@
-# registration_page_sample
+# simple-registration_page_sample
